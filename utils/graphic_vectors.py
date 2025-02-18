@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 def graph_vecs(vecs, cols, alpha = 1):
 
-    plt.figure()
+    
     plt.axvline(x=0, color='gray', zorder=0)
     plt.axhline(y=0, color='gray', zorder=0)
 
