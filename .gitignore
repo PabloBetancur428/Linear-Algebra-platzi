@@ -24,3 +24,7 @@ settings.json
 
 # Windows files
 Thumbs.db
+
+#Images
+*.png
+*.pgm
